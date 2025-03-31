@@ -79,7 +79,8 @@ Use the following command to run the Spring Boot application:
 ```bash
 mvn spring-boot:run
 ```
-5 **Additional Information**
+5. **Additional Information**
+   
 This project is designed with scalability and ease of maintenance in mind, ensuring that both student and company modules work efficiently within the broader context of college placements. Feedback and contributions are welcome to help enhance the system further.
 
 
