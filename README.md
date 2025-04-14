@@ -62,7 +62,7 @@ The **Placement Management System** is a web-based application designed to strea
 
 1. **Clone the repository:**
    ```bash
-   git clone github.com/srinithyasudireddy/Placement-management.git
+   git clone https://github.com/srinithyasudireddy/Placement-management.git
    ```
 2. **Install dependencies:**
 
