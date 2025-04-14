@@ -72,7 +72,7 @@ Ensure you have Java and Maven installed on your system.
 
 Set up PostgreSQL and MySQL databases as per the configuration files (application.properties or application.yml).
 
-4. **Run the application:**x`
+4. **Run the application:**
 
 Use the following command to run the Spring Boot application:
 
